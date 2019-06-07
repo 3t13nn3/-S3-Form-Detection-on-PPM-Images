@@ -48,4 +48,4 @@ Here is some picture that illustrate execution:
 
 ## Authors
 
-* **Etienne PENAULT** - *Algorithme & Structure de donnée I* - Paris VIII
+* **Etienne PENAULT** - *Algorithme & Structure de donnée II* - Paris VIII
