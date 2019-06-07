@@ -10,7 +10,8 @@ There is steps we could select in the application:
   * High Contrast Connex Pixels
   * Aligned Pixels
   * Forms
-  
+
+If you french speaking, I invite you to check the [Report of this project](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Rapport/RAPPORT.pdf) for more details.
 ### Prerequisites
 
 - ```OpenGL``` & ```GLUT``` installed
