@@ -50,4 +50,4 @@ Here is some picture that illustrate execution:
 
 ## Authors
 
-* **Etienne PENAULT** - *Algorithme & Structure de donnée II* - Paris VIII
+* **Etienne PENAULT** - *Programmation Impérative II* - Paris VIII
