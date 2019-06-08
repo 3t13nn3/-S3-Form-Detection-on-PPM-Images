@@ -33,19 +33,19 @@ Click on the image and you will be able to select the feature you want.
 Here is some picture that illustrate execution:
 
 - ***Original Image (by default)***
-![Original Image (by default)](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Execution%20Pic/1.png)
+![Original Image (by default)](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Screen/1.png)
 
 - ***High Contrast Pixels***
-![High Contrast Pixels](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Execution%20Pic/2.png)
+![High Contrast Pixels](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Screen/2.png)
 
 - ***High Contrast Connex Pixels***
-![High Contrast Connex Pixels](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Execution%20Pic/3.png)
+![High Contrast Connex Pixels](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Screen/3.png)
 
 - ***Aligned Pixels***
-![Aligned Pixels](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Execution%20Pic/4.png)
+![Aligned Pixels](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Screen/4.png)
 
 - ***Forms***
-![Forms](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Execution%20Pic/5.png)
+![Forms](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Screen/5.png)
 
 
 ## Author
