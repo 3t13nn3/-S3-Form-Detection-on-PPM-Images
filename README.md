@@ -15,7 +15,7 @@ If you are a french speaker, I invite you to check the [Report of this project](
 
 ### Prerequisites
 
-- ```OpenGL``` & ```GLUT``` installed
+- ```OpenGL``` & [OpenGL utility toolkit](https://www.opengl.org/resources/libraries/glut/) installed
 - An image with the ```.ppm (p6)``` extension if you won't use mine
 
 ### How to use - *Linux Project*
