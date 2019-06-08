@@ -13,22 +13,28 @@ There are steps we can select in the application:
 
 If you are a french speaker, I invite you to check the [Report of this project](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Rapport/RAPPORT.pdf) for more details.
 
-### Prerequisites
+## Prerequisites
 
 - ```OpenGL``` & [OpenGL utility toolkit](https://www.opengl.org/resources/libraries/glut/) installed
 - An image with the ```.ppm (p6)``` extension if you won't use mine
 
-### How to use - *Linux Project*
+## How to use - *Linux Project*
+
+### Compilation
 
 Compile the program with ```make```.
 
-Clean object files and binary by ```make clean```.
+### Utilisation
 
 Lauch the binary as ```./Exe Media/myPicture.ppm``` and wait until the image appear.
 
 Click on the image and you will be able to select the feature you want.
 
-### Exemple of Execution
+### Clean files
+
+Clean object files and binary by ```make clean```.
+
+## Exemple of Execution
 
 Here is some picture that illustrate execution:
 
