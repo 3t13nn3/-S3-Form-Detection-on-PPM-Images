@@ -48,6 +48,6 @@ Here is some picture that illustrate execution:
 ![Forms](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Execution%20Pic/5.png)
 
 
-## Authors
+## Author
 
 * **Etienne PENAULT** - *Programmation Impérative II* - Paris VIII
