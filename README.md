@@ -1,6 +1,6 @@
 # -S3-Form-Detection-on-PPM-Images
 
-A second University year project made with C and OpenGL utility toolkit about detection of forms on ppm P6 images format.
+A second University year project made with C and [OpenGL utility toolkit](https://www.opengl.org/resources/libraries/glut/) about detection of forms on ppm P6 images format.
 
 This project aims to isolate forms on an image step by step. We can select the step we want.
 
