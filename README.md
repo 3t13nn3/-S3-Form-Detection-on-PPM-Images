@@ -2,16 +2,16 @@
 
 A second University year project made with C and OpenGL utility toolkit about detection of forms on ppm P6 images format.
 
-This project aims to isolate forms on an image step by step. We could select the step we want.
+This project aims to isolate forms on an image step by step. We can select the step we want.
 
-There is steps we could select in the application:
+There are steps we can select in the application:
   * Original Image
   * High Contrast Pixels
   * High Contrast Connex Pixels
   * Aligned Pixels
   * Forms
 
-If you french speaking, I invite you to check the [Report of this project](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Rapport/RAPPORT.pdf) for more details.
+If you are a french speaker, I invite you to check the [Report of this project](https://github.com/3t13nn3/-S3-Form-Detection-on-PPM-Images/blob/master/Rapport/RAPPORT.pdf) for more details.
 
 ### Prerequisites
 
@@ -26,7 +26,7 @@ Clean object files and binary by ```make clean```.
 
 Lauch the binary as ```./Exe Media/myPicture.ppm``` and wait until the image appear.
 
-Click on the image and you will be able to selection the feature you want.
+Click on the image and you will be able to select the feature you want.
 
 ### Exemple of Execution
 
